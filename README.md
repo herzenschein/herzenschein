@@ -12,7 +12,7 @@ My socials are:
 
 * [rabbitictranslator.com](https://rabbitictranslator.com)
 * [Matrix](https://go.kde.org/matrix/#/@herzenschein:rabbitictranslator.com)
-* [Mastodon](https://furry.engineer/@herzenschein)
+* <a rel="me" href="https://furry.engineer/@herzenschein">Mastodon</a>
 
 My main repositories are:
 
