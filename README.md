@@ -2,6 +2,8 @@ Welcome to my profile! 🐰
 
 I mostly work with documentation: Hugo, Doxygen, Docbook.
 
+I'm a hare pretending I'm a human pretending I know C++ and CMake.
+
 My git forges are:
 
 * [KDE Invent](https://invent.kde.org/thiagosueto) (main git forge)
