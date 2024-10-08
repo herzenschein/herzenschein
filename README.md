@@ -6,9 +6,9 @@ I'm a hare pretending I'm a human pretending I know C++ and CMake.
 
 My git forges are:
 
-* [KDE Invent](https://invent.kde.org/thiagosueto) (main git forge)
-* [Codeberg](https://codeberg.org/herzenschein) (here)
-* [Github](https://github.com/herzenschein)
+* [KDE Invent](https://invent.kde.org/thiagosueto) (work forge)
+* [Codeberg](https://codeberg.org/herzenschein) (casual forge)
+* [Github](https://github.com/herzenschein) (original forge)
 
 My socials are:
 
