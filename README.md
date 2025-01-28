@@ -20,6 +20,7 @@ My main repositories are:
 
 * [bleeding-edge-learning](https://codeberg.org/herzenschein/bleeding-edge-learning): where I experiment with C++20/23 features
 * [herz-quadlet](https://codeberg.org/herzenschein/herz-quadlet): a collection of podman quadlets that lets me run service containers with systemd units ([mirrored to Github](https://github.com/herzenschein/herz-quadlet))
+* [container-manifests](https://codeberg.org/herzenschein/container-manifests): container manifests for OCI images ready for QML projects
 * [minimal-qml6-examples](https://codeberg.org/herzenschein/minimal-qml6-examples): a collection of simple to understand Qt6 QML usage ([mirrored to Github](https://github.com/herzenschein/minimal-qml6-examples))
 * [minimal-qmlmeson-examples](https://codeberg.org/herzenschein/minimal-qmlmeson-examples): an attempt to mirror minimal-qml6-examples with Meson instead of CMake (new)
 * [minimal-qmlpython-examples](https://codeberg.org/herzenschein/minimal-qmlpython-examples): an attempt to mirror minimal-qml6-examples with PySide in Python (new)
