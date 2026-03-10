@@ -18,6 +18,7 @@ My socials are:
 
 My main repositories are:
 
+* [kalt](https://invent.kde.org/thiagosueto/kalt): my latest new application (on Invent Gitlab)
 * [bleeding-edge-learning](https://codeberg.org/herzenschein/bleeding-edge-learning): where I experiment with C++20/23 features
 * [herz-quadlet](https://codeberg.org/herzenschein/herz-quadlet): a collection of podman quadlets that lets me run service containers with systemd units ([mirrored to Github](https://github.com/herzenschein/herz-quadlet))
 * [container-manifests](https://codeberg.org/herzenschein/container-manifests): container manifests for OCI images ready for QML projects
