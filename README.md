@@ -26,7 +26,7 @@ My main repositories are:
 * [minimal-qmlpython-examples](https://codeberg.org/herzenschein/minimal-qmlpython-examples): an attempt to mirror minimal-qml6-examples with PySide in Python (new)
 * [minimal-qmlrust-examples](https://codeberg.org/herzenschein/minimal-qmlrust-examples): an attempt to mirror minimal-qml6-examples with cxx-qt in Rust (new)
 * [qt6-with-modules](https://codeberg.org/herzenschein/qt6-with-modules): an attempt to run a Qt application with C++20 modules
-* [materiais-de-aprendizado-qt](https://github.com/herzenschein/materiais-de-aprendizado-qt): resources to learn about Qt in Brazilian Portuguese (on Github)
+* [materiais-de-aprendizado-qt](https://codeberg.org/herzenschein/materiais-de-aprendizado-qt): resources to learn about Qt in Brazilian Portuguese ([mirrored to Github](https://github.com/herzenschein/materiais-de-aprendizado-qt), [website version](https://herzenschein.codeberg.page/materiais-de-aprendizado-qt))
 * [ufurmix-backup](https://github.com/herzenschein/ufurmix-backup): an archive of the most famous, but now dead, furry Linux distro, taken from Launchpad (on Github)
 * [klrc](https://codeberg.org/herzenschein/klrc): an attempt to make a library and app for editing synchronized lyrics LRC files
 * [personal-song-lyrics](https://codeberg.org/herzenschein/personal-song-lyrics): a collection of LRC files for some of my music
